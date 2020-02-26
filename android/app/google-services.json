@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869077607205",
+    "firebase_url": "https://book2book-4cdd1.firebaseio.com",
+    "project_id": "book2book-4cdd1",
+    "storage_bucket": "book2book-4cdd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869077607205:android:380a7f49d6e81a7dc970cc",
+        "android_client_info": {
+          "package_name": "com.example.b2b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869077607205-cv2uj4hsv9qj5cdgcla57kes1auevm3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5t0dCJSmi_nrMWqQGRkM0CwZpX3Jugko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869077607205-cv2uj4hsv9qj5cdgcla57kes1auevm3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
